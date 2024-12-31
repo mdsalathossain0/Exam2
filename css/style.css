@@ -1,0 +1,190 @@
+.box{
+    display: flex;
+    width: 100%;
+}
+.navbar{
+    background: #EEEDDE;
+}
+.navbar ul {
+   column-gap: 100px;
+
+}
+.navbar ul li{
+    font-family: "Poppins", serif;
+
+}
+.banner-part{
+    background: #EEEDDE;
+}
+.banner-part h1{
+    padding-top: 100px;
+    padding-bottom: 24px;
+    color: #203239;
+    font-size: 54px;
+    font-weight: 400;
+    font-family: "Poppins", serif;
+}
+.banner-part p{
+    padding-bottom: 50px;
+    width: 470px;
+    color: rgba(32, 50, 57, 55%);
+    font-size: 16px;
+    font-weight: 200;
+    font-family: "Poppins", serif;
+}
+.banner-part .btn{
+    background: #203239;
+    color: white;
+}
+
+.banner-part .box .info{
+    width: 20%;
+}
+.banner-part .box .info p{
+    width: 70%;
+    color: rgba(32, 50, 57, 55%);
+    font-size: 16px;
+    font-weight: 200;
+    font-family: "Poppins", serif;
+}
+.banner-part .box .info h2{
+    color: #203239;
+    font-size: 56px;
+    font-weight: 400;
+    font-family: "Poppins", serif;
+    padding-top: 50px;
+}
+.banner-part .box .info h2 span{
+    color: #FF7527;
+}
+.tahapan{
+    padding: 50px 0;
+}
+.tahapan h3{
+    width: 480px;
+    color: #203239;
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Poppins", serif;
+}
+.card-part{
+    padding: 50px 0;
+}
+.card-part h5{
+    color: #203239;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins", serif;
+    padding-left: 10px;
+}
+.card-part h5 img{
+    padding-right: 20px;
+}
+.card-part p{
+    color: rgba(32, 50, 57, 55%);
+    font-size: 16px;
+    font-weight: 200;
+    font-family: "Poppins", serif;
+    padding-bottom: 26px;
+}
+.card-part p span{
+background: #D6D5C7;
+}
+.card-part p i{
+    padding-left: 10px;
+    color: #203239;
+}
+.recident{
+    background: #EEEDDE;
+    padding: 50px 0;
+}
+
+.recident h6{
+    color: #FF7527;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins", serif;
+
+}
+.recident h3{
+    color: rgba(32, 50, 57,100%);
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Poppins", serif;
+
+}
+.recident h4{
+    padding-top: 200px;
+    width: 440px;
+    color: rgba(32, 50, 57,100%);
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Poppins", serif;
+
+}
+.recident p{
+    width: 445px;
+    color: rgba(32, 50, 57, 55%);
+    font-size: 16px;
+    font-weight: 200;
+    font-family: "Poppins", serif;
+
+}
+.recident .btn{
+    display: flex;
+    column-gap: 30px;
+}
+.recident .btn a:first-child{
+    text-decoration: none;
+    color: rgba(32, 50, 57,100%);
+    border: 1px solid rgba(32, 50, 57,100%);
+    border-radius: 10px;
+    padding: 13px 40px;
+
+}
+.recident .btn a:last-child{
+    text-decoration: none;
+    color: white;
+    background: rgba(32, 50, 57,100%);
+    border: 1px solid rgba(32, 50, 57,100%);
+    border-radius: 10px;
+    padding: 13px 40px;
+
+}
+.residen{
+    padding: 50px 0;
+}
+.residen h6{
+    color: #FF7527;
+    font-size: 16px;
+    font-weight: 400;
+    font-family: "Poppins", serif;
+}
+.residen h4{
+    color: rgba(32, 50, 57,100%);
+    font-size: 36px;
+    font-weight: 500;
+    font-family: "Poppins", serif;
+    padding-bottom: 30px;
+}
+.residen image{
+    width: 350px;
+    height: auto;
+}
+.residen image img{
+    width: 100%;
+    height: auto;
+}
+.residen h5{
+    color: rgba(32, 50, 57,100%);
+    font-size: 24px;
+    font-weight: 500;
+    font-family: "Poppins", serif;
+}
+.residen p{
+    width: 86%;
+    color: rgba(32, 50, 57, 55%);
+    font-size: 16px;
+    font-weight: 200;
+    font-family: "Poppins", serif;
+}

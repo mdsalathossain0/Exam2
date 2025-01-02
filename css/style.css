@@ -188,3 +188,71 @@ background: #D6D5C7;
     font-weight: 200;
     font-family: "Poppins", serif;
 }
+.kami-part{
+    background: #EEEDDE;
+    padding: 30px 0;
+}
+.kami-part .info{
+    display: flex;
+    column-gap: 10px;
+}
+.kami-part h3{
+    font-size: 36px;
+    font-weight: 400;
+    font-family: "Poppins", serif;
+    color: rgba(32, 50, 57,100%);
+}
+.kami-part .info h6{
+    font-size: 16px;
+    font-weight: 300;
+    font-family: "Poppins", serif;
+}
+.kami-part .info p{
+    font-size: 16px;
+    font-weight: 200;
+    font-family: "Poppins", serif;
+}
+.kami-part .box-part{
+    display: flex;
+    column-gap: 50px;
+    padding-top: 50px;
+}
+.kami-part .border-part{
+    border: 1px solid rgba(255, 117, 39, 50%);
+    padding: 15px 30px;
+}
+.kami-part .button{
+    text-align: center;
+}
+.kami-part .button a{
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
+    font-family: "Poppins", serif;
+    background: #FF7527;
+    padding: 13px 60px;
+    display: inline-block;
+    border-radius: 10px;
+
+}
+.kami-part .logo-part{
+    display: flex;
+    column-gap: 15px;
+    padding-top: 50px;
+}
+.footer-part{
+    background: #203239;
+    padding-top: 20px;
+}
+.footer-part ul{
+    list-style: none;
+    display: flex;
+    column-gap: 40px;
+    justify-content: flex-end;
+}
+.footer-part ul li{
+    padding: 0;
+    margin: 0;
+    color: white;
+}
